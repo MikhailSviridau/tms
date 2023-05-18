@@ -1,3 +1,4 @@
+#не доделано
 variable1 = 1,2,3,4,5
 variable2 = variable1
 variable3 = variable2
